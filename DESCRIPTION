@@ -1,12 +1,12 @@
 Package: foofactors
-Title: What the Package Does (One Line, Title Case)
+Title: Make Factors less Annoying (class example)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Sylvia",
+           family = "Lee",
            role = c("aut", "cre"),
            email = "first.last@example.com")
-Description: What the package does (one paragraph).
-License: What license it uses
+Description: Make Factors less Annoying.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
